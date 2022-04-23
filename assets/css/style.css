@@ -209,3 +209,22 @@ hr {
 #times h2 {
     color:#fafafa;
 }
+
+footer {
+    height: 150px;
+    padding: 50px;
+
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks a {
+    text-decoration: none;
+    padding: 36px;
+}
